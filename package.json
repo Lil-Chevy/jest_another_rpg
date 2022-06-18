@@ -1,20 +1,16 @@
 {
-  "name": "jest_another_rpg",
+  "name": "rpg",
   "version": "1.0.0",
-  "description": "Custom Game for RPG fun",
+  "description": "",
   "main": "app.js",
-  "directories": {
-    "lib": "lib"
-  },
   "scripts": {
     "test": "jest"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "jest": "^28.1.1"
-  },
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^7.0.3",
+    "jest": "^24.9.0"
   }
 }
